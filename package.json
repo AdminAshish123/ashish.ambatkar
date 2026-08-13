@@ -1,0 +1,10 @@
+{
+  "name": "tts-widget",
+  "version": "1.0.0",
+  "description": "Embeddable Text-to-Speech widget for blogs — customize once, download, host it yourself, done.",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "license": "UNLICENSED"
+}
